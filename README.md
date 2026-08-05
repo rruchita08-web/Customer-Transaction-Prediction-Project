@@ -257,9 +257,9 @@ or upload the notebook to **Google Colab**.
 
 # 👩‍💻 Author
 
-**Ruchita Davager**
+Ruchita Shankrappa Davager
 
-📧 Email: *Add your email here*
+📧 Email:rruchita08@gmail.com
 
 🔗 GitHub: https://github.com/rruchita08-web
 
