@@ -141,9 +141,7 @@ The models were evaluated using:
 > Save your heatmap inside **images/** folder.
 
 ```markdown
-![Correlation Heatmap](<img width="1069" height="870" alt="Correlation Heatmap" src="https://github.com/user-attachments/assets/690da763-ca71-4d28-9db0-6a2ea8209793" />
-
-)
+![Correlation Heatmap]("C:\Users\Dell\Downloads\Correlation Heatmap.png")
 ```
 
 ---
