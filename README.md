@@ -134,41 +134,17 @@ The models were evaluated using:
 
 ---
 
-# 📷 Project Screenshots
+# 📷 Project Screenshots(Can be accesed in images)
 
 ## 📊 Correlation Heatmap
 
-> Save your heatmap inside **images/** folder.
-
-```markdown
-[Correlation Heatmap]("C:\Users\Dell\Downloads\Correlation Heatmap.png")
-```
-
----
-
 ## 🌳 Feature Importance
-
-```markdown
-[Feature Importance](images/feature_importance.png)
-```
-
----
 
 ## 📈 ROC Curve
 
-```markdown
-![ROC Curve](images/roc_curve.png)
-```
-
----
-
 ## 📉 Confusion Matrix
 
-```markdown
-![Confusion Matrix](images/confusion_matrix.png)
-```
 
----
 
 # 📌 Key Features
 
