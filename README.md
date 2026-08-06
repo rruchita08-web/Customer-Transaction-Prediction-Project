@@ -141,7 +141,7 @@ The models were evaluated using:
 > Save your heatmap inside **images/** folder.
 
 ```markdown
-![Correlation Heatmap]("C:\Users\Dell\Downloads\Correlation Heatmap.png")
+[Correlation Heatmap]("C:\Users\Dell\Downloads\Correlation Heatmap.png")
 ```
 
 ---
@@ -149,7 +149,7 @@ The models were evaluated using:
 ## 🌳 Feature Importance
 
 ```markdown
-![Feature Importance](images/feature_importance.png)
+[Feature Importance](images/feature_importance.png)
 ```
 
 ---
